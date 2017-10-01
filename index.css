@@ -1,0 +1,23 @@
+.fa{
+	display:block-inline;
+	padding:0px 10px 0px 10px;
+}
+
+.fa-facebook{
+	color:blue;
+}
+.fa-envelope{
+	color:red;
+}
+.fa-phone{
+	color:orange;
+}
+.fa-linkedin{
+	color:light-blue;
+}
+
+
+
+.sp{
+	padding:10px;
+}
